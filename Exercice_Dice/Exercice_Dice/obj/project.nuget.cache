@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ohb86twIM/lc8/fp6YcpIReI6HRU3FgULCVbttuXbLCtsVCqGB6BO98i+Iu0Y1UAmxI9YUTus6VEFifPF+lHBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1532408\\Desktop\\Exercice_Dice\\Exercice_Dice\\Exercice_Dice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1532408\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\1532408\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\1532408\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\1532408\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
